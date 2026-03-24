@@ -94,22 +94,6 @@ Traffic-Light-Controller/
 
 ---
 
-## 🖼️ Outputs
-
-### 🔹 Simulation Waveform
-
-![Waveform](simulation/waveform.png)
-
-### 🔹 RTL Schematic
-
-![RTL](synthesis/rtl_schematic.png)
-
-### 🔹 Synthesized Design
-
-![Synthesized](synthesis/synthesized_design.png)
-
----
-
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the Repository
@@ -151,14 +135,14 @@ run -all
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Agnik Maity**
 Institute of Engineering & Management, Kolkata
 
 ---
 
 ## 📜 License
 
-This project is licensed under the **MIT License**.
+This project is licensed under the **GNU License**.
 
 ---
 
